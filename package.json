@@ -19,6 +19,7 @@
       }
     ],
   "dependencies": {
+    "bluebird": "^2.3.11",
     "mongoose": ">=3.8.1",
     "flat": "*",
     "underscore": "*"
